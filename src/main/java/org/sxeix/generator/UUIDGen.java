@@ -1,4 +1,6 @@
-package org.sxeix;
+package org.sxeix.generator;
+
+import org.sxeix.exception.ParameterValidationException;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

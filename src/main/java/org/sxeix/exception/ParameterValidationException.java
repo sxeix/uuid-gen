@@ -1,4 +1,4 @@
-package org.sxeix;
+package org.sxeix.exception;
 
 /**
  * Exception for parameter validation
